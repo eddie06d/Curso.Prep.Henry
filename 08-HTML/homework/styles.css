@@ -1,0 +1,22 @@
+body {
+    background-image: url('http://www.adslzone.net/content/uploads/2014/05/android-150x150.jpg');
+    display: grid;
+    place-items: center;
+}
+h1 {
+    color: olive;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: aqua;
+    padding: 50px;
+    border: 1px solid black;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
